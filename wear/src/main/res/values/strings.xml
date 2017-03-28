@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PodListen Wear</string>
+
+    <string name="hello">Chances are you’ll want to display a custom notification that better supports your brand rather than use one of the standard notification styles. If one of the standard notification styles is good enough for you, you can skip this step and use one of them in the next step.
+</string>
+    <string name="title">Hello Notification!</string>
+    <string name="notification_posted">Notification posted</string>
+</resources>
